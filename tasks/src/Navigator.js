@@ -8,7 +8,7 @@ import Menu from './screens/Menu'
 import Agenda from './screens/Agenda'
 import Auth from './screens/Auth'
 import commonStyles from './commonStyles'
-
+  
 const MenuRoutes = {
     Today: {
         name: 'Today',
